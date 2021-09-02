@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Haptik-Assignment/static/css/main.0220028c.chunk.css",
+    "main.js": "/Haptik-Assignment/static/js/main.a02bf8a8.chunk.js",
+    "main.js.map": "/Haptik-Assignment/static/js/main.a02bf8a8.chunk.js.map",
+    "runtime-main.js": "/Haptik-Assignment/static/js/runtime-main.9d939cdb.js",
+    "runtime-main.js.map": "/Haptik-Assignment/static/js/runtime-main.9d939cdb.js.map",
+    "static/js/2.9be051d0.chunk.js": "/Haptik-Assignment/static/js/2.9be051d0.chunk.js",
+    "static/js/2.9be051d0.chunk.js.map": "/Haptik-Assignment/static/js/2.9be051d0.chunk.js.map",
+    "index.html": "/Haptik-Assignment/index.html",
+    "precache-manifest.8e824b8d27196e26434e2d675242308e.js": "/Haptik-Assignment/precache-manifest.8e824b8d27196e26434e2d675242308e.js",
+    "service-worker.js": "/Haptik-Assignment/service-worker.js",
+    "static/css/main.0220028c.chunk.css.map": "/Haptik-Assignment/static/css/main.0220028c.chunk.css.map",
+    "static/js/2.9be051d0.chunk.js.LICENSE.txt": "/Haptik-Assignment/static/js/2.9be051d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d939cdb.js",
+    "static/js/2.9be051d0.chunk.js",
+    "static/css/main.0220028c.chunk.css",
+    "static/js/main.a02bf8a8.chunk.js"
+  ]
+}
